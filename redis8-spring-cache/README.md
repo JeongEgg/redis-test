@@ -32,3 +32,14 @@ GET http://127.0.0.1:8080/users-db/3
 vegeta attack -timeout=30s -duration=15s -rate=5000/1s -targets=request1.txt -workers=100 | tee v_results.bin | vegeta report
 ```
 
+![iScreen Shoter - 20241002132954497](https://github.com/user-attachments/assets/4464bd2d-8dae-4ee8-bb99-c2896eed8a72)
+
+### ✅ MySQL을 적용한 테스트
+![iScreen Shoter - 20241002133032690](https://github.com/user-attachments/assets/5a5e981d-c6c2-49af-9f04-2b375fc7468b)
+![iScreen Shoter - 20241002133317420](https://github.com/user-attachments/assets/98812dc0-f237-41ec-849a-c5eabe346e6f)
+
+
+### ✅ 레디스를 적용한 테스트
+![iScreen Shoter - 20241002133011561](https://github.com/user-attachments/assets/94c7fda5-2602-403a-aaf0-02fb98605219)
+![iScreen Shoter - 20241002133333294](https://github.com/user-attachments/assets/9b1bf90f-0bce-4c1d-b279-3cc5471e273c)
+
