@@ -43,3 +43,10 @@ vegeta attack -timeout=30s -duration=15s -rate=5000/1s -targets=request1.txt -wo
 ![iScreen Shoter - 20241002133011561](https://github.com/user-attachments/assets/94c7fda5-2602-403a-aaf0-02fb98605219)
 ![iScreen Shoter - 20241002133333294](https://github.com/user-attachments/assets/9b1bf90f-0bce-4c1d-b279-3cc5471e273c)
 
+
+
+### 테스트 하드웨어 환경
+```
+CPU : Mac M1 PRO 8코어
+RAM : 16GB
+```
