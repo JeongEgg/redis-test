@@ -45,7 +45,7 @@ vegeta attack -timeout=30s -duration=15s -rate=5000/1s -targets=request1.txt -wo
 
 
 
-### 테스트 하드웨어 환경
+### ✅ 테스트 하드웨어 환경
 ```
 CPU : Mac M1 PRO 8코어
 RAM : 16GB
